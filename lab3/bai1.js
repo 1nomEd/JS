@@ -15,4 +15,4 @@ function checkDogs(dogsJulia, dogsKate) {
         }
     });
 };
-  
+checkDogs([9,16,17,18,2,5,6], [7,3,12,4,9,17,18]);
