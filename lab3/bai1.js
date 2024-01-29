@@ -28,4 +28,9 @@ console.log(
 for(const [min, events] of gameEvents) {
     const half = min <= 45 ? 'FIRST' : 'SECOND';
     console.log(`[${half} HALF] ${min}: ${events})`)
+    fgdf
 }
+adasczxc
+
+asynca
+csa
